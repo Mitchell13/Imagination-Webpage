@@ -1,0 +1,46 @@
+#header-image {
+  width: 320px;
+  height: 320px;
+  border: black solid 4px;
+}
+
+#image-holder{
+  text-align: center;
+}
+
+body {
+  background-color: rgba(40, 54, 203, 0.56);
+}
+
+h1{
+   color: #ffffff;
+   font-family: 'Raleway',sans-serif;
+   font-size: 36px;
+   font-weight: 800;
+   line-height: 72px;
+   margin: 12px 0 4px;
+   text-align: center;
+   text-transform: uppercase;
+   background-color: rgba(37, 37, 20, 0.75);
+}
+
+#top-word{
+   font-size: 44px;
+ }
+
+h2 {
+  font-family: monospace;
+  font-size: 32px
+}
+
+.content {
+  background-color: white;
+  border-radius: 25px;
+  font-family: cursive;
+  font-size: 18px
+}
+
+p{
+  padding: 12px
+} /*this keeps the text of the content class
+  within the area of the white background*/
